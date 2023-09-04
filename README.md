@@ -8,3 +8,6 @@
 
 ## Step 3: Clustering
 - Run clustering.ipynb using gene_gene_interaction_graph.graphml to produce the final clusters (optimal_clusters_sorted.xlsx)
+
+
+### NOTE: some parts of the code might take longer (1-2 hours) to run
